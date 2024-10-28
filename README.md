@@ -3,7 +3,7 @@
 ### Tabular
 
 * https://colab.research.google.com/drive/1mYuW5O89m3iC0uqnMTpjK6JV6OsBqi0S?usp=sharing
-*
+* https://www.youtube.com/watch?v=rGjvuRDKAgo
 
 
 ### Time-series
